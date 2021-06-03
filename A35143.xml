@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Twenty cases of conscience propounded to the bishops or others who are called fathers in God, for them to answer ... as also some of the reasons why many godly people refuse to worship with the multitude / by J.C.</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35143</idno><idno type="EEBO-CITATION">17003131</idno>
+  <idno type="VID">105715</idno>
+  <idno type="EEBO-PROQUEST">2240884945</idno>
+  
+            <idno type="STC">Wing C7224</idno>
+            <idno type="STC">ESTC R37699</idno>
+            <idno type="OCLC">17003131</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A35143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1613:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Twenty cases of conscience propounded to the bishops or others who are called fathers in God, for them to answer ... as also some of the reasons why many godly people refuse to worship with the multitude / by J.C.</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:105715:1"/>
+            <head>TWENTY CASES of CONSCIENCE Propounded to the BISHOPS, Or others, who are called FATHERS in GOD.</head>
+            <head type="sub">For them to Answer;</head>
+            <head type="sub">That the Blind may not be turned out of the Way, nor the People Perish for lack of Knowledge. And that the Way of Truth may be known from the Way of Errour.</head>
+            <head type="sub">The which also may serve as a Glass, to shew to the Igno<g ref="char:EOLhyphen"/>rant the Spots and Deformities in the Way of their Worship,</head>
+            <head type="sub">As also some of the Reasons why many Godly People Refuse to Worship with the Multitude.</head>
+            <byline>By <hi>J. C.</hi>
+            </byline>
+            <epigraph>
+               <q>
+                  <p>Their fear towards me is taught by the Precepts of <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</p>
+               </q>
+               <q>
+                  <p>In vain do they worship me, teaching for Doctrins <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Commandments of Men.</p>
+               </q>
+            </epigraph>
+            <epigraph>
+               <q>
+                  <l>Si Christum discis, satis est, si coetera nescis.</l>
+                  <l>Si Christum nescis, nihil est, si coetera discis.</l>
+               </q>
+            </epigraph>
+            <div n="1" type="case">
+               <p>I SEeing the Scripture saith, <hi>That we may not do the least evil, that good may come of it, and that no man can redeem his Brother out of the Pit,</hi> nor be <hi>a Ransome for his Soul; but every man is to be perswaded in his own mind,</hi> and so to obey:</p>
+               <p>The Case of Conscience to be Resolved, is, Whether any person, or persons counsel whatsoever, should be imbraced and followed, untill, or unless a man be first perswaded of it (and satisfied concerning it) in his own Judge<g ref="char:EOLhyphen"/>ment and Conscience, without sinning against God, and procuring his dis<g ref="char:EOLhyphen"/>pleasure, for his Lame Sacrifice, and Blind Obedience?</p>
+            </div>
+            <div n="2" type="case">
+               <p>II. Seeing we read in the Scriptures, in sundry places, <hi>That every man must
+<pb n="2" facs="tcp:105715:2"/>give an account of himself to God, and appear before his Judgement Seat, to give an account for things done in the body, whether they be good or evil; and the Soul that sinneth he shall dye.</hi> These things rightly and truly considered,</p>
+               <p>The Case of Conscience to be Resolved, is, Whether a man that thus be<g ref="char:EOLhyphen"/>lieves, may without sin at any time, or in any wayes, go, or do, contrary to his Conscience, and Perswasion herein; notwithstanding any Threats, or Penal<g ref="char:EOLhyphen"/>ties, or Lawes made by any man or men, to the contrary whatsoever?</p>
+            </div>
+            <div n="3" type="case">
+               <p>III. Seeing the great Apostle saith, <hi>Follow me, as I follow Christ;</hi> and the Apostle <hi>John</hi> saith, <hi>He that believeth in Christ, ought himself so to walk, even as he also walked:</hi> and the Apostle <hi>Peter</hi> saith, <hi>Christ suffered for us, leaving us an Example, that we should follow his Steps.</hi> These things truly believed,</p>
+               <p>The Case of Conscience to be Resolved, is, Whether such a man, that is so perswaded, as aforesaid, may follow any Example, or Examples, (in any men) who walk either contrary, or not according to the Practices of Christ and his Apostles before mentioned, without sinning against the Light and Grace of Christ in his own Conscience?</p>
+            </div>
+            <div n="4" type="case">
+               <p>IIII. Seeing <hi>Peter</hi> and <hi>John</hi> were commanded by the Council, <hi>To speak no more at all, nor teach in the Name of Jesus;</hi> to which <hi>Peter</hi> and the other Apo<g ref="char:EOLhyphen"/>stles answered and said, <hi>We ought to obey God, rather than men.</hi> And seeing <hi>Pharoah</hi> King of <hi>Egypt,</hi> commanded <hi>Israel to stay in the Land, and to observe his Orders, and cha<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ged them with Rebellion for their Refusal;</hi> yet did they not observe his Command, but chose to obey the Lord, in passing to the Land which he had given them: And seeing <hi>Daniel,</hi> and the three Children, Refu<g ref="char:EOLhyphen"/>sed <hi>Nebuchadnezzars</hi> Command, notwithstanding the great Penalty that was to Insue; and you justify them in so doing,</p>
+               <p>The Case of Conscience to be Resolved, is, Whether Disobedience to men, and their Laws, may not <hi>sometimes,</hi> and in <hi>some cases</hi> be justly esteemed, and accounted Obedience to God, and may be done as truly for Conscience sake, as <hi>Submission</hi> and <hi>Subjection</hi> may be said to be unto other Commands, that are Lawful and Just?</p>
+            </div>
+            <div n="5" type="case">
+               <p>V. Seeing the Old-Testament saith, <hi>That every thing in difference was to be confirmed out of the mouth of two or three Witnesses,</hi> not mentioning or com<g ref="char:EOLhyphen"/>manding that the Witnesses should swear; but on the contrary hath provi<g ref="char:EOLhyphen"/>ded that the false witnesses for their Testimony, <hi>shall suffer the same punishment,</hi> that he should have done against whom they witnessed, had their Testimony <hi>been true:</hi> and seeing that the Kings of <hi>Israel were neither made by an Oath,</hi> nor the People <hi>Sworn to Subjection;</hi> And in the New-Testament, there is no exam<g ref="char:EOLhyphen"/>ple of any man, that ever <hi>Swore</hi> or took <hi>a Formal Oath</hi> (by vertue of Gods Command) but on the contrary, there is a Cloud of Witnesses against all Swearing; as Christ saith in <hi>Mat.</hi> 5. <hi>Swear not at all;</hi> and the Apostle <hi>Paul</hi> changes the word SWEAR, into the word CONFESSE <hi>to God,</hi> in two of his Epistles, <hi>Rom.</hi> 14. <hi>Phil.</hi> 2. and saith, <hi>Heb.</hi> 6. that Christ is come to do THAT in and amongst True Beleivers, which an <hi>Oath</hi> did, or was taken to do in the times of the Law, which was <hi>to end Strif and Debate;</hi> and <hi>James</hi> the Apostle saith, <hi>Above all things, Swear not,</hi> neither <hi>by this,</hi> nor <hi>that, nor any other Oath.</hi> These things truly believed and received in simplicity as they are spoken.</p>
+               <p>The Case of Conscience to be Resolved, is, Whether a man that thus belie<g ref="char:EOLhyphen"/>veth, and is satisfied in his heart and Conscience concerning the same, may lawfully, without sinning against the God of Heaven and Earth, take any Oath, or Swear at all in any Case; notwithstanding any Penalties, Laws, or Com<g ref="char:EOLhyphen"/>mands
+<pb n="3" facs="tcp:105715:2"/>of men to the contrary whatsoever? And whether, if such an one should Swear, either to please the King, or to procure his own Liberty, and save his Estate, whether any of these can become an Atonement for him, or pacifie Gods Wrath and Anger against him for his sin?</p>
+            </div>
+            <div n="6" type="case">
+               <p>VI. Seeing the Scripture saith, <hi>That the Saints ought not to forsake the Assem<g ref="char:EOLhyphen"/>bling of themselves together, but so much the more to meet, as either the day of Trial or Adversitie, or Peace, and Prosperitie doth approach, and would hinder; and if there be a drawing back, or f<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rsaking of Meeting together after Illumina<g ref="char:EOLhyphen"/>tion, and knowledge of what is Gods Way and Worship,</hi> (and seeing the Scripture saith) <hi>Gods Soul will take no pleasure in such an one; and that nothing may be ex<g ref="char:EOLhyphen"/>pected by him, who so draws back, but a fearful looking for of Judgement, to De<g ref="char:EOLhyphen"/>vour and Destroy those who so refuse to meet together,</hi>
+               </p>
+               <p>The Case of Conscience to be Resolved, is, Whether such Person or Persons may, or ought, (without sinning against God, and his, or their own Con<g ref="char:EOLhyphen"/>sciences) refuse to meet with the Saints to Worship God, and wait upon him, according to such a Discovery and Manifestation, notwithstanding any Decree, Proclamation, or Commandment whatsoever to the contrary?</p>
+            </div>
+            <div n="7" type="case">
+               <p>VII. Seeing the Scripture saith, <hi>He that giveth flattering Titles to men, dis<g ref="char:EOLhyphen"/>pleaseth the Lord:</hi> And the Apostle saith, <hi>He that Respects mens Persons, com<g ref="char:EOLhyphen"/>mits sin:</hi> And Christ saith, <hi>How can ye Believe, while ye seek Honour one of ano<g ref="char:EOLhyphen"/>ther?</hi> and his very enemies bore witness for him, <hi>That he Respected no mans Person;</hi> and it is left upon Record, as the Commendation of <hi>Mordecai, That he would not Bow to the Person of</hi> Haman (though the second man in the Kingdom)</p>
+               <p>The Case of Conscience to be Resolved, is, Whether a man that believes, and is perswaded concerning the Truth of these things, may without sin<g ref="char:EOLhyphen"/>ning against his God (and Provoking him to Wrath) give Flattering Titles to men, or Respect their Persons; notwithstanding any Custom or Command from men to the contrary whatsoever?</p>
+            </div>
+            <div n="8" type="case">
+               <p>VIII. Seeing the Scripture saith, <hi>That they that will live Godly in Christ Je<g ref="char:EOLhyphen"/>sus, shall suffer Persecution:</hi> And Christ saith, <hi>Blessed are you when men Persecute, and Hate you for my Names-sake; and he that will be Christs Disciple, must suffer with him, and take up his Cross daily, and follow him, that he may find Rest to his Soul; and he that will Reign with him, must Suffer with him; and those that follow the Lamb, are said to go through great Tribulations;</hi>
+               </p>
+               <p>The Case of Conscience to be Resolved, is, Whether a man that is perswa<g ref="char:EOLhyphen"/>ded concerning the Truth of these things, may without sinning against his God, avoid or Fly from suffering for Christ, though it be to the loss of Libertie, Estate and Life also, if he be thereunto called, without sinning a<g ref="char:EOLhyphen"/>gainst Christ, and denying him before men; notwithstanding any command from any of the Sons of men to the contrary?</p>
+            </div>
+            <div n="9" type="case">
+               <p>IX. Seeing many say, <hi>They are the Apostles Successors, and sent by Christ; and yet neither walk in his Steps, nor his Apostles, but contrary to both, wearing Sumptuous Apparrel, and fareing Delitiously every day, and dwelling in Great Palaces, and Seiled Houses, when as Christ had not whereon to say his Head; and his Apo<g ref="char:EOLhyphen"/>stles laboured with their Hands, lest they should make the Gospel Changeable; and it was their Meat and Drink to do their Masters will; and some of them said they could do nothing against, but for the Truth, and they had learned to be content in every Condition: and seeing those that say they are their Successors, and com<gap reason="illegible: blotted" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> be content in any Condition, but are changing with Times, and seeking give things for themselves,</hi>
+               </p>
+               <pb n="4" facs="tcp:105715:3"/>
+               <p> The Case of Conscience to be Resolved, is, Whether a man that is truly Enlightned with the knowledge of these things, may give the tenth of his increase, or otherwise maintain and uphold these aforesaid, who walk con<g ref="char:EOLhyphen"/>trary to the Steps, Practices, and Examples of Christ and his Apostles, with<g ref="char:EOLhyphen"/>out sinning against Christ, in his so doing, and bring upon himself Gods Plagues, for not coming out of their sins?</p>
+            </div>
+            <div n="10" type="case">
+               <p>X. Seeing the Scripture saith, <hi>The Kingdome of Heaven cometh not with out<g ref="char:EOLhyphen"/>ward Observation, Loe, here, or Loe, there; neither standeth in Meates Drinkes, or Apparrels, but in Righteousness and Peace, and Joy in the Spirit;</hi> and a man believing these things.</p>
+               <p>The Case of Conscience to be Resolved, is, Whether for such an one, to go af<g ref="char:EOLhyphen"/>ter such outward Observations, and to joyn with those that cry them up (and impose them upon great Penalties) as the True Religion, and best Reformed Church, is not a sin against God, and a neglecting of his Command, who saith, <hi>Come out from among them, and be ye Separate, and I will receive you;</hi> and against Christs Command, who saith, <hi>Go not after them;</hi> and contrary to the Apostles Doctrine, who saith, <hi>There is no fellowship between the Table of God, and the table of Devills;</hi> notwithstanding any Law or Commandement from any man or men whatsoever?</p>
+            </div>
+            <div n="11" type="case">
+               <p>XI. Seeing the Scripture saith, <hi>God is a Spirit, and will be Worshipped in Spi<g ref="char:EOLhyphen"/>rit and Truth; and that he seeketh such to Worship him,</hi>
+               </p>
+               <p>The Case of Conscience to be Resolved, is, Whether a man that is per<g ref="char:EOLhyphen"/>swaded of the Truth thereof (and is acquainted with Gods Spirit) and sees men going on to set up a Form without the Power, and to set up Deceit, and Hypocrisie, quite out of Truth and Sincerity, and that man joyn with them in their Dissimulation, <hi>as to thank God</hi> (as they call it) <hi>For their</hi> Electi<g ref="char:EOLhyphen"/>on <hi>before time,</hi> and Vocation <hi>in time,</hi> and <hi>for their</hi> Sanctification <hi>and</hi> Justifi<g ref="char:EOLhyphen"/>cation, <hi>and Future hope of</hi> Glorification; and at the same time say, <hi>Lord have Mercy upon us Miserable Sinners, we have Erred and Strayed from thy Wayes, like lost Sheep; and there is no health in us:</hi> and then say again, <hi>As it was in the Begin<g ref="char:EOLhyphen"/>ing, is now, and ever shall be, World without End,</hi> Whether a man may with a safe Conscience, or can by the Spirit of Truth, <hi>say these things</hi> without great Sin and Iniquity against God; and as being Guilty both of <hi>Mockery</hi> and <hi>Lying?</hi> for though these things are spoken by <hi>Drunkards, Swearers,</hi> and <hi>Lyars,</hi> [Now] yet it was not so from the <hi>Beginning,</hi> neither shall it be so in the <hi>World without End,</hi> nor when the people <hi>shall be all Righteous,</hi> and there shall be no Destroyer upon all the Holy Mount, nor any that worketh Abomination, or maketh a Lye.</p>
+            </div>
+            <div n="12" type="case">
+               <p>XII. Seeing the Scripture saith, <hi>That the Spirit helpeth our Infirmities, and if any man have not the Spirit of Christ, he is none of his; and that the Prayers of the Wicked are Abomination unto God; and he that hath a Male in his flock, and offers to God a Female, is Accurst; And the Spirit of God is called the Spirit of Prayer, and Supplication; and seeing that Necessities and Wants are the ground of Petitions and Complaints;</hi> and seeing the Scripture saith, <hi>That Christ hath light<g ref="char:EOLhyphen"/>ed every man that cometh into the world with the True Light,</hi> that thereby they may see their Wants and Necessities, and from the sence thereof, and in that Light pray unto God for Supplies;</p>
+               <p>The Case of Conscience to be Resolved, is, Whether a man that thus be<g ref="char:EOLhyphen"/>lieve and in his heart is perswaded of the Truth thereof, may, or ought to conform to, and joyn in, and with such Prayers, as are Artificially made, and by the Prophane performed, and put up to a God, whom they know not,
+<pb n="5" facs="tcp:105715:3"/>without sin and wickedness against the Pure God? Seeing, <hi>He that Names the Name of Christ, is to depart from Iniquity;</hi> neither <hi>can any man say in Truth, that Christ is Lord, but by the Holy-Ghost:</hi> And for these Prayers and Services to be Imposed upon him, as long as he lives without any Variation, both in that time when he was without <hi>Grace,</hi> and after if he come to <hi>Receive Grace;</hi> and also when he comes to be strong in <hi>Grace;</hi> and if he goes about to Depart or Scparate from the <hi>P ayers</hi> and <hi>Services</hi> aforesaid, he thereby makes him<g ref="char:EOLhyphen"/>self a Prey; whether this be not <hi>great Wickedness</hi> in Gods sight, and Provo<g ref="char:EOLhyphen"/>kes to Jealousie the Eyes of his Glory, and will bring Swift Destruction up<g ref="char:EOLhyphen"/>him that departs not from them?</p>
+            </div>
+            <div n="13" type="case">
+               <p>XIII. Seeing the Scripture saith, <hi>The Church is in God the Father of our Lord Jesus Christ, and that it is the Ground and Pillar of Truth, and without Spot or Wrinkle (or any such thing) Built up of Living Stones a Holy Temple in the Lord;</hi>
+               </p>
+               <p>The Case of Conscience to be Resolved, is, Whether a man may meet with a company of <hi>Drunkards, Swearers,</hi> and <hi>Lyars,</hi> and <hi>Proud Men</hi> and <hi>Women;</hi> and <hi>Say,</hi> as they <hi>Say,</hi> and <hi>Sit</hi> when they <hi>Sit,</hi> and <hi>Stand</hi> when they <hi>Stand,</hi> and <hi>Sing,</hi> and <hi>Pray,</hi> when and what they <hi>Sing</hi> and <hi>Pray,</hi> and <hi>Curse</hi> and <hi>Bless,</hi> when they <hi>Curse</hi> and <hi>Bless;</hi> and call them a <hi>Church,</hi> and the <hi>Things</hi> and <hi>Gestures</hi> which they <hi>Perform Gods Worship and Service,</hi> without great Abomi<g ref="char:EOLhyphen"/>nation before the Lord, and Sinning against God and his own Conscience, considering a Church in the New-Testament, is so described as aforesaid?</p>
+            </div>
+            <div n="14" type="case">
+               <p>XIV. Seeing <hi>England</hi> is called a <hi>Church,</hi> and all the People within the Territories thereto belonging, are said <hi>to be Members thereof:</hi> and you who are called <hi>Bishops, and Fathers in God,</hi> are said to take upon you <hi>the Govern<g ref="char:EOLhyphen"/>ment, and Oversight thereof;</hi> and say, <hi>You follow the Examples of Christ, and the Apostles therein;</hi> who accounted it <hi>their Meat and Drink to do the will of God, and to spend, and be spent for his Name, and the good of his People; Preaching the Word in Season, and out of Season; Confirming the Weak, and Visiting the Sick; and by Sound Doctrine, and a Godly Life, Strove to Convince Gain-sayers, and to stop the Mouths of Opposers:</hi> These things duely considered in our hearts,</p>
+               <p>The Case of Conscience to be Resolved, is, Whether all those who have gone and strai'd from your wayes, not only because the <hi>Name</hi> of <hi>a</hi> BISHOP <hi>hath been taken up,</hi> and <hi>the Work neglected;</hi> but also because the Way of your Promo<g ref="char:EOLhyphen"/>tion and Climbing up, hath rather seemed to be like those <hi>John</hi> speakes of in his 16th. Chap. Who are said, <hi>Not to come in at the True Door, but are climed up another Way,</hi> than those <hi>Bishops</hi> did whom <hi>Paul</hi> speakes of in his Epistles to <hi>Timothy</hi> and <hi>Titus;</hi> who saith, That <hi>a Bishop must be blameless, and a Lover of good Men; not greedy of filthy Lucer, but Patient, not Covetous;</hi> (but seeing the contrary Qualifications are found amongst those that say they are Bishops) whether we should not sin against the living God, and his Righteous Law, if we should not bear Witness against Such, and their Wayes? and if we did not do so, whether the God of Heaven &amp; Earth would not leave us to be Partakers <hi>of their Plagues,</hi> because we refused, and were afraid to bear witness for him a<g ref="char:EOLhyphen"/>gainst their Sins?</p>
+            </div>
+            <div n="15" type="case">
+               <p>XV. Seeing the Scripture speaketh of <hi>Being Baptized into one Body, and into Christ, whereby such put on Christ;</hi> and that <hi>there is one Baptisme, and one Faith, and one Hope of our Calling, and one Lord Jesus Christ;</hi>
+               </p>
+               <p>The Case of Conscience to be Resolved, is, Whether a Man that thus be<g ref="char:EOLhyphen"/>lieves, may without sinning against God, call Sprinkling <hi>a little Water in the Face of a Childe,</hi> and <hi>Signing</hi> it with the Sign of <hi>the Crosse,</hi> and to have <hi>three</hi>
+                  <pb n="6" facs="tcp:105715:4"/>or <hi>four Men</hi> and <hi>Women</hi> present, to promise that the Childe <hi>shall forsake the Devil, and</hi> ALL <hi>his Works, and Pomps and Vanities of this World;</hi> When as these promising Persons (it may be) never look after the Childe more, nor take Care what becomes of it; but themselves bring forth the Works of the De<g ref="char:EOLhyphen"/>vil <hi>dayly</hi> in the whole course of their lives, Whether a man may call this <hi>that Baptisme</hi> before named, or a Baptizing into the Congregation of Gods holy Church, <hi>by th<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se Actions, Persons</hi> and <hi>Gestures</hi> aforesaid, without sinning against God, by deep Hipocrisie and Deceit?</p>
+            </div>
+            <div n="16" type="case">
+               <p>XVI. Seeing the Scripture speakes of <hi>Davids not being Puffed in Mind, and of his Mourning by reason of his Sin, and of his Watring his Couch with his Tears, and of having all his Benes broken by reason of his grief, &amp;c.</hi>
+               </p>
+               <p>The Case of Conscience to be Resolved, is, Whether Men, whose Hearts are hardened in Sin, and who never truly <hi>shed Tears for Sin,</hi> and are both Puffed in Mind, and Filled with Pride; (and seeing We with Others, who know this to be true by dayly Experience,) may lawfully sing these Words and Sayings of <hi>David,</hi> and those aforesaid, that believes these Things to be done in Forma<g ref="char:EOLhyphen"/>lity and Hypocrisie, may joyn with them in these Things, and call this Practice the Worship of God, and a Singing to the Praise and Glory of God, without being Guilty of Deep Provocation and Hypocrisie against God?</p>
+            </div>
+            <div n="17" type="case">
+               <p>XVII. Seeing the Scripture speakes of <hi>False Prophets,</hi> both in the <hi>Old</hi> and <hi>New Testament;</hi> and tells us, <hi>That we may know them by their Fruits,</hi> and those <hi>Markes</hi> and <hi>Characters,</hi> laid down in the Scripture to discover them by; <hi>As that they are such as Preach for Hire,</hi> and <hi>Divine for Money,</hi> and <hi>Seek for Gain from their Quarter,</hi> and <hi>Prepare War against, or go to Law with those who refuse to put into their Mouthes, or to maintain them:</hi> and Christ saith, <hi>We shall know them by their Fruits, as that they are called of Men,</hi> Rabbi, <hi>or</hi> Lord, <hi>or</hi> Master; <hi>And that they love</hi> Greetings <hi>in the Market-Place, or to be Honoured before the People,</hi> or to have Men put off their Hats unto them or to stand Bare before them; <hi>and they love the Ʋppermost Roomes at Feasts, and will have the Cheifest Places in the Syna<g ref="char:EOLhyphen"/>gogues,</hi> or those Places now called Churches; and for their Habit, they go in long Robes of Black like the <hi>Chy<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>narims:</hi> And if People will not pay them, they will prove <hi>like Thrones,</hi> and <hi>Thistles,</hi> to <hi>Scratch, Prick,</hi> and <hi>Tear People:</hi> and of such <hi>Men,</hi> or <hi>Trees,</hi> Christ saith, <hi>We must not expect to gather either Grapes or Figgs.</hi> And Christ saith further, That we may throughly know them, <hi>They are like Wolves in Sheeps Cloathing,</hi> or wearing White upon Black; but in<g ref="char:EOLhyphen"/>wardly Ravening and Devouring, being one thing <hi>in their Words</hi> and <hi>Professi<g ref="char:EOLhyphen"/>on,</hi> and another <hi>in Life</hi> and <hi>Conversation.</hi> And therefore,</p>
+               <p>The Case of Conscience to be Resolved, is, Whether a Man may Lawfully, without Sinning against God, and Transgressing the Scriptures of Truth, ei<g ref="char:EOLhyphen"/>ther <hi>Hear,</hi> or <hi>Follow</hi> such Men who bear (as in their Fore-heads) the <hi>Marks</hi> and <hi>Fruits</hi> aforesaid, or <hi>maintain them,</hi> by feeding their Covetous Minds with Hire, or paying as towards the Sheeps Cloathing aforesaid? Or rather, Whe<g ref="char:EOLhyphen"/>ther a Man that seareth God, is not bound in Conscience to bear witness a<g ref="char:EOLhyphen"/>gainst them?</p>
+            </div>
+            <div n="18" type="case">
+               <p>XVIII. Seeing the Papists <hi>plead for a Continued Succession;</hi> and those that are called <hi>Protestant</hi> BISHOPS <hi>do the same;</hi> and both of them being out of <hi>the Life</hi> and <hi>Practices</hi> (and Principles in many things) of <hi>Christ</hi> and <hi>His A<g ref="char:EOLhyphen"/>postles,</hi> as by the Scriptures of Truth doth appear, being understood plainly, as they are spoken without <hi>Forced</hi> and <hi>Constrained</hi> Meanings;</p>
+               <p>The Case of Conscience to be Resolved, is, Whether that kind <hi>of Succession</hi>
+                  <pb n="7" facs="tcp:105715:4"/>which they both plead for, be that Succession which a Man must derive unto himself, or he cannot be a True Minister of Christ? Or whether the <hi>True, Ne<g ref="char:EOLhyphen"/>cessary,</hi> and <hi>Rightfull Derivative Succession,</hi> stands not rather in that same Spirit and Power, which the Apostles were indued withall from on High, and whereby they were made able Ministers of the New-Testament, not <hi>of the Let<g ref="char:EOLhyphen"/>ter</hi> but <hi>of the Spirit;</hi> and according to which they spake, <hi>As it gave them utte<g ref="char:EOLhyphen"/>rance;</hi> And further considering, That the <hi>Naturall</hi> or <hi>Outward Succession</hi> before mentioned, <hi>is according unto the first Priesthood,</hi> which stood <hi>in a Natural</hi> or <hi>Out<g ref="char:EOLhyphen"/>ward Line,</hi> and <hi>Descent,</hi> and was made by a Carnal Commandment, and could not continue by reason of Death: but Christ was not so made a Minister or Priest, but after another Order, and according to another Law, (viz.) <hi>The Power of an endless Life:</hi> According to which the Apostles were, and all true Ministers are made, who are truly the Successors of Christ, and his Apostles? So that these three <hi>Questions</hi> for the Resolving of the Case of Conscience afore<g ref="char:EOLhyphen"/>said, are necessary to be Resolved;</p>
+               <p>First, <hi>Whether either</hi> Papist or Protestant (so called) <hi>can derive unto them<g ref="char:EOLhyphen"/>selves the continued Apostolicall Succession</hi> (aforesaid) <hi>from Christ down-wards to this Day?</hi>
+               </p>
+               <p>Second Quest. is, <hi>Whether the Succession aforesaid, be sufficient without the Gift of the Spirit, to make a Minister of the Gospel?</hi>
+               </p>
+               <p>Third Quest is, <hi>Whether the Spirit and Power from on High be not of it self, without any further Act or Thing, as</hi> from Man, <hi>or</hi> by Man, <hi>sufficient, and that only wherein stands the Authority that brings unto</hi> Unity <hi>and</hi> Uniformity, <hi>and is accord<g ref="char:EOLhyphen"/>ing to that Way and Manner that the Apostles were made Ministers? for they said,</hi> They believed, and therefore they spake: and when it pleased God, to reveale his Son in them, then they went, and Preached the Gospel, <hi>and did not stay for Mans Commission, but Ministred from that; and not</hi> of Man, <hi>nor</hi> by Man, <hi>nor</hi> from Man, but by the Revelation of Jesus Christ, <hi>as aforesaid; whose steps the True Ministers follow unto this Day, and have Christs presence with them according to promise, who said,</hi> And Lo, I am with you alway, even to the End of the World.</p>
+            </div>
+            <div n="19" type="case">
+               <p>XIX. Seeing the <hi>Outward, Naturall,</hi> or <hi>Personall Derivative Succession,</hi> is so disputable among those called Christians; and considering, if it could be proved, yet its sufficiency (without the Holy Ghost) is <hi>Opposed</hi> and <hi>Denied;</hi> and seeing, as they say, the <hi>Authority</hi> and <hi>Verity</hi> of the Scripture depends upon a Belief and Knowledge of the Succession <hi>Outward</hi> and <hi>Personall</hi> as aforesaid; and so from, or by, the Tradition of the Church to be received (as they speak.) These things truly weighed,</p>
+               <p>The Case of Conscience to be resolved, is, Whether a Man must not Know, and be Turned to somthing <hi>within himself,</hi> (though not of himself) which only can give unto him the certain Knowledge both of the Truth and Authority of the Scripture, (which Gift of Grace in himself, is as a Witness <hi>in him,</hi> and Seales unto, and Assures him of the Truth of what is written, whereby his own heart answers the Hearts of those holy men who writ the Scriptures, as face answers face in a Glass) and whereby he hath Hope and Comfort through the Scriptures? Or whether a Man must Believe, and Depend upon them, who say they are the Apostles Successors, and have received their Pow<g ref="char:EOLhyphen"/>er from <hi>Peter,</hi> but do imitate him in little at all, besides, <hi>in his denying of his Master,</hi> and <hi>Dissembling for fear of the Jews,</hi> for both which he was <hi>blamed and reproved?</hi> And also considering, that both the <hi>Popish Inquisitions,</hi> and those cal<g ref="char:EOLhyphen"/>led
+<pb n="8" facs="tcp:105715:5"/>Protestants, <hi>Compulsions</hi> by <hi>Paines</hi> and <hi>Prisons,</hi> are an Infallible Note or Mark of the False Church and Ministry; both which are Described by their compelling <hi>(All both small and great to worship the Beast and his Image)</hi> by out<g ref="char:EOLhyphen"/>ward <hi>Paines</hi> and <hi>Punishments,</hi> which those that follow the Lamb, and are washed with his Blood, are Saved and Redeemed from; so that they cannot bow down, nor submit unto them.</p>
+            </div>
+            <div n="20" type="case">
+               <p>XX. Seeing that severall <hi>Protestant</hi> Writers, as <hi>Chillingworth,</hi> (who was a Man of Note) and others who have written against <hi>the Papists,</hi> and have affirm<g ref="char:EOLhyphen"/>ed in Opposition to them and their Tenet, <hi>That Right Reason is the Judge of Controvers<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>; and every Mans particular Reason within himself, is Judge for himself,</hi> as hath been affirmed (and that truly) and seeing that Gods Faithfull People do Believe and Preach, <hi>That Gods Gift of Grace and Light in Man is the first Prin<g ref="char:EOLhyphen"/>ciple of pure Religion and Judge of Controversy, unto which a Man must have his mind turned, and in it believe, before he can Worship God acceptably:</hi> and seeing they agree with the True Protestant Principle herein, and <hi>their Lives</hi> being according <hi>to what they Professe</hi> and <hi>Teach;</hi> and considering those who call them<g ref="char:EOLhyphen"/>selves <hi>Protestants,</hi> and the <hi>Apostles Successors,</hi> but are not True to the <hi>Prote<g ref="char:EOLhyphen"/>stant Principles,</hi> in that they <hi>Imprison</hi> and <hi>Punish men,</hi> (meerly) for things rela<g ref="char:EOLhyphen"/>ting to their Consciences: And thereby condemn <hi>their professed Principles</hi> by their Practices, (and so make themselves Transgressors) and therefore justifie the People of God aforesaid, who separate from them as such Transgressors. These things duly considered of,</p>
+               <p>The Case of Conscience to be Resolved, is, Whether those Called <hi>Protestants</hi> aforesaid, who have Apostatized from their Principles (and lost both the Life and Power of Religion) should come out of the Apostacy and return to the first and primitive Principle? or whether those who are in the True Principle and Practice (and retain their Integrity) should go into the Apostacy unto them, seeing the Scripture saith, <hi>Go not thou to them, but let them cometo thee?</hi>
+               </p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>
+               <hi>THese things are written, not to kindle Dissention, nor to blow up the Coales of Contention; but rather for satisfaction, both to others who are inquiring what the Reason is, why many Godly People separate from those called Bish ps? Or why they do not joyn in Commons with the Multitude? As also to Stir up and Minde those of their Duty, (who say they are Fathers in God) That they may make it appeare (if they are such) and that by a Godly Life, and sound Arguments, to Convince those that are out of the Way, that all may be reclamed, who have erred from the Way of Life, and be brought back again to the Shepherd, and Bishop of their Souls, that there may be but one Shepherd, and one Sheep-fold; and that there may be no noise of a Hammer heard in the Re-building of the Temple, nor any cries from Prisons, (against those that call themselves Reformers of the Church) but that they may effect the work, to the re<g ref="char:EOLhyphen"/>joycing of</hi> Sion, <hi>and shaming of all Her Enemies; not by Might, nor Power, nor Whips, nor Goales, but by the Spirit of the Lord of Hosts, which shall certainly overturn them, if they refuse to trust to it, or only, and alone, to make use of it in the Work which they call the Lords.</hi>
+            </p>
+            <trailer>THE END</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilson</hi> at the <hi>Black-spread-Eagle</hi> and <hi>Wind-mill</hi> in <hi>Martins Le Grand.</hi>
+            </p>
+            <pb facs="tcp:105715:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
